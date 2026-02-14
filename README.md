@@ -1,21 +1,4 @@
-##  Hi, I'm Aditya Yadav
 
-## About Me 
-
-
-## Skills 
--Python
--Pandas
--Matplotlib
--Seaborn
--mysql
-
-## Projects
--Supply Chain Data Analysis
--Data Visualization Project
-
-## Connect With Me
--Email: adityayadav12193@gmail.com
 
 ## Supply Chain Data Analysis & Visuallization
 ## Overview
